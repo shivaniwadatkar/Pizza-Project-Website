@@ -1,0 +1,130 @@
+{
+  "Menu": [
+    {
+      "id": "1",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2014/08/No-Knead-Pan-Pizza-above.jpg",
+      "name": "Pan Pizza",
+      "description": "Its soft, airy interior contrasts with the crisp exterior for a unique texture",
+      "price": 249
+    },
+    {
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/d9d123bc-2284-4e1c-b908-cca62ec5b2b8_new_fresh_veggie.jpg",
+      "name": "Fresh Veggie",
+      "description": "Delectable combination of onion & capsicum, a veggie lovers pick",
+      "price": "349",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/09e3f02a-3c27-46b1-b358-68fdd8fbd978_new_mexican_green_wave.jpg",
+      "name": "Mexican Green Wave",
+      "description": "Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+      "price": 449
+    },
+    {
+      "id": "4",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/a94524cf-3acc-476a-a3a8-f0209ea9d4b2_new_cheese_n_corn.jpg",
+      "name": "Cheese n Corn",
+      "description": "A delectable combination of sweet & juicy golden corn",
+      "price": 339
+    },
+    {
+      "id": "5",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/79bc3609-690b-440e-b8be-74694b1f3215_new_margherita_2502.jpg",
+      "name": "Margherita",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 219
+    },
+    {
+      "id": "6",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/8b0eec2e-789c-48d1-b6d1-2b18e3b2fbf6_new_pepper_barbeque_chicken.jpg",
+      "name": "Pepper Barbecue Chicken",
+      "description": "Pepper barbecue chicken for that extra zing",
+      "price": 429
+    },
+    {
+      "id": "7",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/8a9f4cab-4f46-4b71-8e9b-55bba0b96366_new_veggie_paradise.jpg",
+      "name": "Veggie Paradise",
+      "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+      "price": 449
+    },
+    {
+      "id": "8",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/1b892978-f689-4199-90d2-47df4e261235_farmhouse.png",
+      "name": "Farmhouse",
+      "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+      "price": 449
+    },
+    {
+      "id": "9",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/17bc2a18-73f5-49d7-95eb-327091806cd6_IndianTandooriPaneer.jpg",
+      "name": "Indi Tandoori Paneerr",
+      "description": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo",
+      "price": 529
+    },
+    {
+      "id": "10",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/14cc8206-ad4a-4e9e-9415-ffaed348e723_MenusizeFarmhouse.jpg",
+      "name": "Cheese Volcano Farmhouse",
+      "description": "Centre loaded with Molten Cheese & topped with Onion, Capsicum, Tomato & Grilled Mushroom *Contains non-edible container under the Pizza",
+      "price": 299
+    },
+    {
+      "id": "11",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/66da241f-4558-43e4-b358-e6d54eb28cd4_MenusizeCheeseVolcanoDoubleChicken.jpg",
+      "name": "Cheese Volcano Blazing Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Chicken Keema & Red Paprika with our spicy Peri Peri Sauce *Contains non-edible container under the Pizza",
+      "price": 549
+    },
+    {
+      "id": "12",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/108883dd-10bd-4d0e-89be-45f7f9a71d77_MenusizeVeggieParadise.jpg",
+      "name": "Cheese Volcano Veg Paradise",
+      "description": "Centre loaded with Molten Cheese & topped with Golden Corn, Black Olives, Capsicum & Red Paprika *Contains non-edible container under the Pizza",
+      "price": 499
+    },
+    {
+      "id": "13",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/c640fa0f-ebb3-4743-9e06-f3e7792bd733_Parcel_Veg.jpg",
+      "name": "Veg Parcel",
+      "description": "Snacky bites! Pizza rolls with paneer & creamy harissa sauce",
+      "price": 49
+    },
+    {
+      "id": "14",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/e1e6b168-2cf6-44fa-ac98-80b567f28089_burgerpizzaClassic.jpg",
+      "name": "Burger Pizza - Classic Veg",
+      "description": "Oven-baked buns with cheese, tomato & capsicum in creamy mayo",
+      "price": 119
+    },
+    {
+      "id": "15",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/986652b0-bb8c-4fa9-b495-a46551af7c0c_Stuffed_garlic_Bread.png",
+      "name": "Classic Stuffed Garlic Bread",
+      "description": "Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno",
+      "price": 149
+    },
+    {
+      "id": "16",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/0e3c85ca-0b64-4c5a-affa-da98b34373e0_PepsiSearch.jpg",
+      "name": "Pepsi 475ml",
+      "description": "Sparkling and Refreshing Beverage",
+      "price": 60
+    },
+    {
+      "id": "17",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/b1e4223a-5ab0-42bb-a6b9-6676e69b9b2d_PEPSIBLACKCANSearch.jpg",
+      "name": "Pepsi Black Can 300ml",
+      "description": "Maximum Taste Zero Calories",
+      "price": 60
+    },
+    {
+      "id": "18",
+      "image": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/bfbf8cd6-89d5-40c3-9f04-4210c4ee1e08_LiptonBottleSearch.jpg",
+      "name": "Lipton Ice Tea ( 350 ml)",
+      "description": "Refreshment Sahi, Gas Nahi",
+      "price": 60
+    }
+  ]
+}
